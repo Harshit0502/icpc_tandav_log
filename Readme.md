@@ -92,4 +92,13 @@ Day 0:
 ## Type 🔥 `TANDAV CONTINUE` 🔥 when Day 0 is complete.
 
 **Jai Maa. Jai Shri Ram. Jai Shri Krishna. Jai shiv shankar Jai ICPC.**
+
+
+| Scripture/Philosophy | Creation Model                     | Key Concept                        |
+| -------------------- | ---------------------------------- | ---------------------------------- |
+| **Nasadiya Sukta**   | Unknown origin, mysterious         | Questioning, metaphysical          |
+| **Purusha Sukta**    | Sacrifice of cosmic being          | Cosmic unity, varna system         |
+| **Sankhya**          | Dualism: Consciousness + Nature    | Evolution from Prakriti            |
+| **Puranas**          | Vishnu → Lotus → Brahma → Creation | Trinity roles: Brahma-Vishnu-Shiva |
+| **Shiva’s Tandava**  | Cyclical universe                  | Dance = cycle of universe          |
 ```
