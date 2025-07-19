@@ -1,0 +1,1 @@
+{"name":"Local: Greedy_Grid","url":"/workspaces/icpc_tandav_log/Codeforces Round 1038 (Div. 1+Div 2)/Greedy_Grid.cpp","tests":[{"id":1752936067889,"input":"2\n3 3\n1 2\n","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/icpc_tandav_log/Codeforces Round 1038 (Div. 1+Div 2)/Greedy_Grid.cpp","group":"local","local":true}
